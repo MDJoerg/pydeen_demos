@@ -35,7 +35,7 @@ See the german [Youtube video playlist](https://www.youtube.com/playlist?list=PL
 - export data to new z-table
 - code example: get jira tickets from cloud tenant and store results into z-table in SAP backend
 - example for deep structures json records 
-### [Video 5 ](Connecting to SAP gateway demo system ES5 and use the single record OData navigation)
+### [Video 5 Connecting to SAP gateway demo system ES5 and use the single record OData navigation](https://youtu.be/N9sgV8ZakoM)
 - howto get access to sap demo system
 - using the SAP ABAP OData Connector
 - search for endpoint and select endpoint and entity
